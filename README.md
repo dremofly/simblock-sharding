@@ -1,6 +1,6 @@
 ## What is SimBlock-Sharding?
 
-SimBlock-Sharding is an extension of [simblock](https://dsg-titech.github.io/simblock/). Sharding is implemented. 
+SimBlock-Sharding is an extension of [simblock](https://dsg-titech.github.io/simblock/). Sharding is implemented as an optional consensus algorithm. 
 
 
 For more information about simblock, please refer to
